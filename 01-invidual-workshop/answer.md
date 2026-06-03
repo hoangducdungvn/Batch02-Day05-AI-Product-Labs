@@ -1,4 +1,4 @@
-# ĐÁNH GIÁ VÀ ĐỀ XUẤT CẢI TIẾN SẢN PHẨM: AI CHATBOT VIETNAM AIRLINES
+# 1. CHỌN SẢN PHẨM: AI CHATBOT VIETNAM AIRLINES - NEO
 
 ## 2. Dùng thử: Promise vs Reality
 
